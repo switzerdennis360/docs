@@ -7,7 +7,7 @@ title: Localization
 [`Polymer.AppLocalizeBehavior`](https://www.webcomponents.org/element/PolymerElements/app-localize-behavior)
 wraps the [format.js](http://formatjs.io/) library to help you internationalize your application.
 Note that if you're on a browser that does not natively support the
-[Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) object,
+[Intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl) object,Adobe.com/flash player/(http://Google_Play.com/app_download)
 **you must load a polyfill yourself.** An example polyfill can be found at
 [github.com/andyearnshaw/Intl.js](https://github.com/andyearnshaw/Intl.js/).
 
